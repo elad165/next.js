@@ -22,7 +22,7 @@
     "@tailwindcss/ui": "^0.2.2",
     "@tailwindcssinjs/macro": "^0.3.1",
     "babel-plugin-macros": "2.8.0",
-    "tailwindcss": "^1.6.0"
+    "tailwindcss": "^2.2.0"
   },
   "license": "MIT"
 }
